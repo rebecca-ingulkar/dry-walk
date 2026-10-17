@@ -26,7 +26,7 @@ The initial goal is to investigate whether available mapping and geographic data
 
 ## Initial Data Research
 
-OpenStreetMap is being investigated as a source of pedestrian infrastructure and shelter information.
+For our Wellington test route, OpenStreetMap provides detailed pedestrian infrastructure and building geometry, but we haven't found reliable explicit shelter information.
 
 Research will focus on relevant map features, tagging conventions, data coverage, and limitations.
 
